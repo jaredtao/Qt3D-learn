@@ -1,0 +1,25 @@
+﻿dist: bionic
+language: cpp
+sudo: required
+compiler: gcc
+env: QT_BASE="512"
+cache:
+    apt: true
+    directories:
+        - /opt/qt512/
+
+group: deprecated-2019Q3
+before_install:
+    - sudo add-apt-repository ppa:beineri/opt-qt-5.12.3-bionic -y
+    - sudo apt-get update -qq
+    - sudo apt-get install -y libglew-dev libglfw3-dev
+    - sudo apt-get install -y qt512-meta-minimal
+    - sudo apt-get install -y qt5123d
+    - sudo apt-get install -y qt512quickcontrols2
+before_script:
+    - source /opt/qt512/bin/qt512-env.sh
+script:
+    - qmake
+    - make
+notifications:
+    email: false

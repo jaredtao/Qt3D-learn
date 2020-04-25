@@ -1,0 +1,99 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/ExampleModel.qml</file>
+        <file>qml/Comp/ItemButton.qml</file>
+        <file>qml/Images/icon-back.png</file>
+        <file>qml/Images/icon-go.png</file>
+        <file>qml/Comp/BlackBackground.qml</file>
+        <file>qml/Config.qml</file>
+        <file>qml/Comp/FPS.qml</file>
+        <file>qml/BackItem.qml</file>
+        <file>qml/Example/Texture1/Texture1.qml</file>
+        <file>qml/Example/Texture2/Texture2.qml</file>
+        <file>qml/Example/DefaultRootEntity.qml</file>
+        <file>qml/Example/DefaultScene.qml</file>
+        <file>qml/Example/FirstCube/FirstCube.qml</file>
+        <file>qml/Example/HelloScene3D/HelloScene3D.qml</file>
+        <file>qml/Example/HelloScene3D2/HelloScene3D2.qml</file>
+        <file>qml/Example/Texture3/Texture3.qml</file>
+        <file>qml/Example/Triangles/FuncComponent/TriangleDouble.qml</file>
+        <file>qml/Example/Triangles/FuncComponent/TriangleIndex.qml</file>
+        <file>qml/Example/Triangles/FuncComponent/TriangleMulitColor.qml</file>
+        <file>qml/Example/Triangles/FuncComponent/TriangleVertex.qml</file>
+        <file>qml/Example/Triangles/Triangles.qml</file>
+        <file>qml/Example/Time.qml</file>
+        <file>qml/Example/MulitCube/MulitCube.qml</file>
+        <file>qml/Example/MulitCube/Cube.qml</file>
+        <file>qml/Example/SkyBox/SkyBox.qml</file>
+        <file>qml/Example/TextureCube/TextureCube.qml</file>
+        <file>qml/Example/FPSRootEntity.qml</file>
+        <file>qml/Example/OrbitRootEntity.qml</file>
+        <file>qml/Example/AutoTechnique.qml</file>
+        <file>qml/Example/TextureCubeWithPlane/TextureCubeWithPlane.qml</file>
+        <file>qml/Example/Text3D/Text3D.qml</file>
+        <file>qml/Example/CubeMapGeometryRenderer.qml</file>
+        <file>qml/Assets/Cube/1.jpg</file>
+        <file>qml/Assets/Cube/2.jpg</file>
+        <file>qml/Assets/Cube/3.jpg</file>
+        <file>qml/Assets/Cube/4.jpg</file>
+        <file>qml/Assets/Cube/5.jpg</file>
+        <file>qml/Assets/Cube/6.jpg</file>
+        <file>qml/Assets/SkyBox/box_negx.jpg</file>
+        <file>qml/Assets/SkyBox/box_negy.jpg</file>
+        <file>qml/Assets/SkyBox/box_negz.jpg</file>
+        <file>qml/Assets/SkyBox/box_posx.jpg</file>
+        <file>qml/Assets/SkyBox/box_posy.jpg</file>
+        <file>qml/Assets/SkyBox/box_posz.jpg</file>
+        <file>qml/Assets/luoli.jpg</file>
+        <file>qml/Assets/qingzhi.jpg</file>
+        <file>qml/Assets/Cube/cube.png</file>
+        <file>qml/Example/HelloMesh/HelloMesh.qml</file>
+        <file>qml/Assets/nanosuit/arm_dif.png</file>
+        <file>qml/Assets/nanosuit/arm_showroom_ddn.png</file>
+        <file>qml/Assets/nanosuit/arm_showroom_spec.png</file>
+        <file>qml/Assets/nanosuit/body_dif.png</file>
+        <file>qml/Assets/nanosuit/body_showroom_ddn.png</file>
+        <file>qml/Assets/nanosuit/body_showroom_spec.png</file>
+        <file>qml/Assets/nanosuit/glass_ddn.png</file>
+        <file>qml/Assets/nanosuit/glass_dif.png</file>
+        <file>qml/Assets/nanosuit/hand_dif.png</file>
+        <file>qml/Assets/nanosuit/hand_showroom_ddn.png</file>
+        <file>qml/Assets/nanosuit/hand_showroom_spec.png</file>
+        <file>qml/Assets/nanosuit/helmet_diff.png</file>
+        <file>qml/Assets/nanosuit/helmet_showroom_ddn.png</file>
+        <file>qml/Assets/nanosuit/helmet_showroom_spec.png</file>
+        <file>qml/Assets/nanosuit/leg_dif.png</file>
+        <file>qml/Assets/nanosuit/leg_showroom_ddn.png</file>
+        <file>qml/Assets/nanosuit/leg_showroom_spec.png</file>
+        <file>qml/Assets/nanosuit/LICENSE.txt</file>
+        <file>qml/Assets/nanosuit/nanosuit.blend</file>
+        <file>qml/Assets/nanosuit/nanosuit.mtl</file>
+        <file>qml/Assets/models/textures/Intergalactic Spaceship Ao_Blender.jpg</file>
+        <file>qml/Assets/models/textures/Intergalactic Spaceship_color_4.jpg</file>
+        <file>qml/Assets/models/textures/Intergalactic Spaceship_curvature.jpg</file>
+        <file>qml/Assets/models/textures/Intergalactic Spaceship_emi.jpg</file>
+        <file>qml/Assets/models/textures/Intergalactic Spaceship_metalness.jpg</file>
+        <file>qml/Assets/models/textures/Intergalactic Spaceship_nmap_2_Tris.jpg</file>
+        <file>qml/Assets/models/textures/Intergalactic Spaceship_rough.jpg</file>
+        <file>qml/Assets/models/Intergalactic_Spaceship-(Wavefront).mtl</file>
+        <file>qml/Example/HelloMesh2/HelloMesh2.qml</file>
+        <file>qml/Example/Meshes/Meshes.qml</file>
+        <file>qml/Assets/nanosuit/maps/arm_showroom_ddn.png</file>
+        <file>qml/Assets/nanosuit/maps/body_showroom_ddn.png</file>
+        <file>qml/Assets/nanosuit/maps/glass_ddn.png</file>
+        <file>qml/Assets/nanosuit/maps/hand_dif.png</file>
+        <file>qml/Assets/nanosuit/maps/hand_showroom_ddn.png</file>
+        <file>qml/Assets/nanosuit/maps/helmet_showroom_ddn.png</file>
+        <file>qml/Assets/nanosuit/maps/leg_dif.png</file>
+        <file>qml/Assets/nanosuit/maps/leg_showroom_ddn.png</file>
+        <file>qml/Assets/nanosuit/meshes/arms.mesh</file>
+        <file>qml/Assets/nanosuit/meshes/body.mesh</file>
+        <file>qml/Assets/nanosuit/meshes/hands.mesh</file>
+        <file>qml/Assets/nanosuit/meshes/helmet.mesh</file>
+        <file>qml/Assets/nanosuit/meshes/legs.mesh</file>
+        <file>qml/Assets/nanosuit/meshes/lights.mesh</file>
+        <file>qml/Assets/nanosuit/meshes/visor.mesh</file>
+        <file>qml/Example/Nanosuit/Nanosuit.qml</file>
+    </qresource>
+</RCC>
